@@ -16,3 +16,5 @@
   * Predict: take the canvas number and display model prediction.
   * Save: save canvas drawing in images folder (to increase the dataset and can use for later training).
   * Exit: to close the app.
+
+![image](https://user-images.githubusercontent.com/70113806/124999594-59243180-e003-11eb-80e9-5614e67bcf42.PNG)
